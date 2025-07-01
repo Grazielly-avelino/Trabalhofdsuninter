@@ -32,10 +32,10 @@ p {
 table {
   border-collapse: collapse;
   background-color: rgb(255, 236, 236);
-  width: 300px; /* ajuste conforme desejar */
-  border: 1.5px solid black;
-  
-  table, th, td {
+  width: 300px;
+}
+
+table, th, td {
   border: 1.5px solid black;
 }
 
