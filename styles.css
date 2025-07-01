@@ -40,6 +40,16 @@ table, th, td {
   border-collapse: collapse;
 }
 
+table {
+  border-collapse: collapse;
+  background-color: rgb(255, 236, 236);
+  width: 300px;
+}
+
+table, th, td {
+  border: 1.5px solid black;
+}
+
 a {
   color: deeppink;
   text-decoration: none;
