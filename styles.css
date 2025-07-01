@@ -29,16 +29,6 @@ p {
   background-color: rgb(255, 223, 227);
 }
 
-table {
-  border-collapse: collapse;
-  background-color: rgb(255, 236, 236);
-  width: 300px;
-}
-
-table, th, td {
-  border: 1.5px solid black;
-  border-collapse: collapse;
-}
 
 table {
   border-collapse: collapse;
